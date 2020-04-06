@@ -1,5 +1,3 @@
-# Home
-
 # CS 52 Syllabus (Spring 2020)
 
 ### Current Announcements

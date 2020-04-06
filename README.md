@@ -27,7 +27,7 @@ Note: The schedule is still being finalized and will likely change a bit in the 
 Week | Tuesday | Thursday
 :-: | --- | --- 
 **1** | **4/7**<br><br>- Check-in and intro to spring quarter<br>- Tech stack discussion<br>- Bootcamp overview | **4/9**<br><br><br><br>SGMs
-**2** | **4/14**<br><br>Possible speaker: TBD | **4/16**<br><br>SGMs
+**2** | **4/14**<br><br>Speaker: Dalberg | **4/16**<br><br>SGMs
 **3** | **4/21**<br><br>**DUE: Bootcamp deliverable**<br>Debrief with team coaches | **4/23**<br><br><br>TBD
 **4** | **4/28**<br><br>Speaker: TBA | **4/30**<br><br>SGMs
 **5** | **5/5**<br><br><br>No class | **5/7**<br><br>**DUE: Completed Front-End V1**<br> SGMs

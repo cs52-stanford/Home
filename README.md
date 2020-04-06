@@ -11,6 +11,10 @@ This quarter you will implement the idea that you ideated and prototyped in the 
 
 Refer to the syllabus below for a planned schedule for the quarter.
 
+### Class times
+* Tuesdays: Class will occur every Tuesday over Zoom from 6:30pm - 8:00pm Pacific Time, unless it is noted on the syllabus that there will not be class that day
+* Thursdays: Instead of class, you will have your SGMs. You should still block off 6:30-8pm because your SGM should occur during this time. More on scheduling SGMs during our first class.
+
 #### What are SGMs?
 An SGM, or Small Group Meeting, is a concept borrowed from CS 210. We will run our SGMs in much the same format. Each SGM will be a 30 minute meeting between the team and their teaching team coach, and may also include other members of the teaching team. The meeting will start off with some check-in questions from the coach to get a sense of your team's progress. After that, the rest of the meeting should be run by the team. Your goal during the SGM is to come together as a team to debrief on what you have done since the last meeting, make key decisions together, create milestones, and divide up work so that each individual knows what they are responisble for completing before the next deadline or meeting.
 

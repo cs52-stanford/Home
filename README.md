@@ -31,17 +31,29 @@ Khan Academy | |
 You are expected to attend all virtual class sessions on Tuesdays and your scheduled SGM time on Thursdays. You are allowed up to three absenses during the quarter for any reason. For any absense, please communicate with your teaching team coach ahead of time that you will not be able to make it. We understand that things are very up in the air this quarter and that unforeseen circumstances may cause you to miss class sessions. We will try to be accomodating, but it is essential that you communicate with the teaching team.
 
 #### Team Github Pages
-- When teams create their own Github repos for their projects, they will be linked here
+Each team will have their own team and repository under the CS52 Github organization. They are linked in the table below. You should've already received an invitation to be a part of these teams, if you haven't, please reach out to Jose. 
+We'll go more in depth into how to use Github after the bootcamp but Github will be your friend when it comes to remote development.
+
+Team | Repository Link
+:-: | --- 
+The Hive | https://github.com/cs52-stanford/thehive20
+Wage Theft | https://github.com/cs52-stanford/wagetheft
+FreeFrom | https://github.com/cs52-stanford/freefrom
+Khan Academy | https://github.com/cs52-stanford/khanacademy 
 
 #### Piazza
 We'll be using Piazza this quarter to help students with course issues. Use this link to sign up to Piazza: piazza.com/stanford/spring2020/cs52
 
 #### Office Hours
-The teaching team will be holding office hours online this quarter. Please sign up for a spot that works for you using the links below.
+The teaching team will be holding office hours online this quarter. Office hours are a resource available to you so feel free to sign up if you ever need help, it need not be technical. To sign up for office hours, please go to the link below, select the instructor you want to meet with, and sign up for office hours using the link posted next to their names. We'll be using Calendly to manage office hour slots. 
 
-TT Member | Time | Expertise | Signup Link
-:-: | --- | --- | ---
-Jose | Mon 11am-12pm | React/Swift | 
+https://docs.google.com/spreadsheets/d/1suz9DvELHCBOkqkILEXxiCQQhhZhwO1ofSnInSawn6o/edit?usp=sharing
+(Note: you'll need to use your Stanford account to access this link. This is to protect the privacy of the teaching team)
+
+Office hours are all 15 minutes long, if you need longer, please email the teaching team member you want to talk to. Also, if none of the times work, feel free to email us.
+
+#### Slack
+We'll continue to use Slack this quarter to message you all. If you haven't already, please turn on notifications on the main channel. We'll make sure to use the @channel tag on any important announcements so feel free to turn off every other kind of notification. We also encourage you to create a Slack channel for your team since that will help with distributed work.
 
 ## Syllabus
 Note: The schedule is still being finalized and will likely change a bit in the first couple weeks of the quarter.

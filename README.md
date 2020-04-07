@@ -24,8 +24,8 @@ You are expected to attend all virtual class sessions on Tuesdays and your sched
 #### Team Github Pages
 - When teams create their own Github repos for their projects, they will be linked here
 
-### Piazza
-We'll be using Piazza this quarter to help students with course issues. Sign up to the Piazza class here: piazza.com/stanford/spring2020/cs52
+#### Piazza
+We'll be using Piazza this quarter to help students with course issues. Use this link to sign up to Piazza: piazza.com/stanford/spring2020/cs52
 
 ## Syllabus
 Note: The schedule is still being finalized and will likely change a bit in the first couple weeks of the quarter.

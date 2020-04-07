@@ -68,4 +68,4 @@ Week | Tuesday | Thursday
 **7** | **5/19**<br><br><br>Demo Day | **5/21**<br><br>SGMs
 **8** | **5/26**<br><br>No Class | **5/28**<br><br>**DUE: Milestone 2**<br>SGMs
 **9** | **6/2**<br><br>**DUE: User Test**<br>Possible speaker: TBD | **6/4**<br><br>**DUE: Final Product**<br>SGMs
-**10** | **6/9**<br><br>Virtual Showcase<br>**DUE: Showcase Presentation** | No class
+**10** | **6/9**<br><br>**DUE: Showcase Presentation** <br>Virtual Showcase| No class

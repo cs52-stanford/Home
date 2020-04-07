@@ -36,6 +36,13 @@ You are expected to attend all virtual class sessions on Tuesdays and your sched
 #### Piazza
 We'll be using Piazza this quarter to help students with course issues. Use this link to sign up to Piazza: piazza.com/stanford/spring2020/cs52
 
+#### Office Hours
+The teaching team will be holding office hours online this quarter. Please sign up for a spot that works for you using the links below.
+
+TT Member | Time | Expertise | Signup Link
+:-: | --- | --- | ---
+Jose | Mon 11am-12pm | React/Swift | 
+
 ## Syllabus
 Note: The schedule is still being finalized and will likely change a bit in the first couple weeks of the quarter.
 Week | Tuesday | Thursday

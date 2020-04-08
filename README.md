@@ -22,7 +22,7 @@ An SGM, or Small Group Meeting, is a concept borrowed from CS 210. We will run o
 #### SGM Zoom Links
 Team | Time | Zoom Link
 :-: | --- | --- 
-The Hive | | 
+The Hive | 6:30-7:00 PM PST | 
 Wage Theft | | 
 FreeFrom | |
 Khan Academy | |

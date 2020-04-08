@@ -20,7 +20,7 @@ An SGM, or Small Group Meeting, is a concept borrowed from CS 210. We will run o
 
 
 #### SGM Zoom Links
-https://docs.google.com/spreadsheets/d/1ewlaj5yy0hnKWzkQFNbVL7PoqbBdNfcxpaX8lr4BmTA/edit?usp=sharing (Note: you'll need to use your Stanford account to access this link. This is to protect others outside of the class from access the Zoom links to our private meetings)
+Find the Zoom links for each team's SGM [here](https://docs.google.com/spreadsheets/d/1ewlaj5yy0hnKWzkQFNbVL7PoqbBdNfcxpaX8lr4BmTA/edit?usp=sharing). (Note: you'll need to use your Stanford account to access this link. This is to protect others outside of the class from access the Zoom links to our private meetings)
 
 #### Attendance Policy
 You are expected to attend all virtual class sessions on Tuesdays and your scheduled SGM time on Thursdays. You are allowed up to three absenses during the quarter for any reason. For any absense, please communicate with your teaching team coach ahead of time that you will not be able to make it. We understand that things are very up in the air this quarter and that unforeseen circumstances may cause you to miss class sessions. We will try to be accomodating, but it is essential that you communicate with the teaching team.
@@ -42,7 +42,7 @@ We'll be using Piazza this quarter to help students with course issues. Use this
 #### Office Hours
 The teaching team will be holding office hours online this quarter. Office hours are a resource available to you so feel free to sign up if you ever need help, it need not be technical. To sign up for office hours, please go to the link below, select the instructor you want to meet with, and sign up for office hours using the link posted next to their names. We'll be using Calendly to manage office hour slots. 
 
-https://docs.google.com/spreadsheets/d/1suz9DvELHCBOkqkILEXxiCQQhhZhwO1ofSnInSawn6o/edit?usp=sharing
+You can find the signup for each Teaching Team member's Office Hours [here](https://docs.google.com/spreadsheets/d/1suz9DvELHCBOkqkILEXxiCQQhhZhwO1ofSnInSawn6o/edit?usp=sharing).
 (Note: you'll need to use your Stanford account to access this link. This is to protect the privacy of the teaching team)
 
 Office hours are all 15 minutes long, if you need longer, please email the teaching team member you want to talk to. Also, if none of the times work, feel free to email us.

@@ -57,7 +57,7 @@ Week | Tuesday | Thursday
 **1** | **4/7**<br><br>- Check-in and intro to spring quarter<br>- Tech stack discussion<br>- Bootcamp overview (Find instructions for Bootcamp [here](https://github.com/cs52-stanford/Home/tree/master/bootcamp)) | **4/9**<br><br><br><br>SGMs
 **2** | **4/14**<br><br>Speaker: Dalberg | **4/16**<br><br>SGMs
 **3** | **4/21**<br><br>**DUE: [Bootcamp deliverable](https://github.com/cs52-stanford/Home/tree/master/bootcamp)**<br>Debrief with team coaches<br>Layout the rest of the quarter <br>Github Video Workshop | **4/23**<br><br>SGM: Milestone Planning
-**4** | **4/28**<br><br>Speaker: TBA | **4/30**<br><br>SGMs
+**4** | **4/28**<br><br>No class | **4/30**<br><br>SGMs
 **5** | **5/5**<br><br>No class | **5/7**<br><br>**DUE: Milestone 1**<br>SGM: Plan next steps
 **6** | **5/12**<br><br>Lecture on how to deploy to testflight/server | **5/14**<br><br>**DUE: Deploy Milestone 1**<br>SGMs
 **7** | **5/19**<br><br><br>Demo Day | **5/21**<br><br>SGMs

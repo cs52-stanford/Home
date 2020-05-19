@@ -61,6 +61,6 @@ Week | Tuesday | Thursday
 **5** | **5/5**<br><br>No class | **5/7**<br><br>**DUE: Milestone 1**<br>SGM: Plan next steps
 **6** | **5/12**<br><br>Lecture on how to deploy to testflight/server | **5/14**<br><br>**DUE: Deploy Milestone 1**<br>SGMs
 **7** | **5/19**<br><br><br>Demo Day | **5/21**<br><br>SGMs
-**8** | **5/26**<br><br>No Class | **5/28**<br><br>**DUE: Milestone 2**<br>SGMs
+**8** | **5/26**<br><br>Speaker: Sonya Passi from FreeFrom | **5/28**<br><br>**DUE: Milestone 2**<br>SGMs
 **9** | **6/2**<br><br>**DUE: User Test**<br>Speaker: Patrick Robinson and Camille Edwards from CZI | **6/4**<br><br>**DUE: Final Product**<br>SGMs
 **10** | **6/9**<br><br>**DUE: Showcase Presentation** <br>Virtual Showcase| No class
